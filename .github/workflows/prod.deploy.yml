@@ -1,4 +1,4 @@
-name: TESTNET - Hypha Token Sales Website Deploy
+name: MAINNET PROD - Hypha Token Sales Website Deploy
 
 on:
   push:
