@@ -3,7 +3,7 @@ name: TESTNET - Hypha Token Sales Website Deploy
 on:
   push:
     branches:
-      - fix/static-and-deployment
+      - main
 
 env:
   NODE_ENV: production
