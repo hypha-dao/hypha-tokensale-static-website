@@ -1,9 +1,8 @@
 name: MAINNET PROD - Hypha Token Sales Website Deploy
 
 on:
-  push:
-    branches:
-      - main
+  release:
+    types: [published]
 
 env:
   NODE_ENV: production
